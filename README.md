@@ -1,4 +1,21 @@
-# Webbpack Express Example App
+# Natural Language Processing Example App. 
 
-The goal of this repo is be an example of a basic but functional app built on Express and Webpack, based on Udacity FrontEnd Web Developer course.
+## Overview
+
+Basic App where a user can assess the sentiment of a webpage using the mindscape API.
+
+## Setup
+
+> npm install
+
+> npm run build-prod 
+
+> npm start
+
+App will run on http://localhost:8080/
+
+
+
+
+
 
